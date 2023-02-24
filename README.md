@@ -2,8 +2,8 @@
 This is my hello-world repository
 
 # H3 About me
-Username: horvana
-Things I love
+# H1 Username: horvana
+# H1 Things I love
 - Cats
 - Coding
 - My mom
